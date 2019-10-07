@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceDemo", "InvoiceDemo\InvoiceDemo.csproj", "{3A108E1B-EB86-485A-B180-BB758D538E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoceDemo.Tests", "InvoceDemo.Tests\InvoceDemo.Tests.csproj", "{6B009692-8815-4556-817B-5D8EF5450B27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A108E1B-EB86-485A-B180-BB758D538E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A108E1B-EB86-485A-B180-BB758D538E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A108E1B-EB86-485A-B180-BB758D538E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B009692-8815-4556-817B-5D8EF5450B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B009692-8815-4556-817B-5D8EF5450B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B009692-8815-4556-817B-5D8EF5450B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B009692-8815-4556-817B-5D8EF5450B27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
